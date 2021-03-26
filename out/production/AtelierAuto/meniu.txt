@@ -1,0 +1,12 @@
+
+Optiuni in meniu:
+0 - Adaugare angajat
+1 - Afisare angajati
+2 - Stergere angajat
+3 - Editare angajat
+4 - Calcul salariu angajat
+5 - Introducerea masinii in service
+
+-1 - Inchidere aplicatie
+
+Alege urmatoarea actiune dorita:
